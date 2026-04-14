@@ -1,0 +1,32 @@
+# Python dependencies for the Heat Exposure Paper code package
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Notes:
+# - Some geospatial packages may be easier to install with conda.
+# - Google Earth Engine JavaScript scripts run in the Earth Engine Code Editor.
+# - Python helpers that call Earth Engine require local EE authentication.
+
+numpy
+pandas
+geopandas
+rasterio
+rasterstats
+shapely
+pyproj
+xarray
+scipy
+statsmodels
+matplotlib
+matplotlib-scalebar
+seaborn
+tqdm
+requests
+earthengine-api
+cdsapi
+taichi
+pysolar
+pytz
+libpysal
+esda
